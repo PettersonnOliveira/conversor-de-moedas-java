@@ -12,16 +12,6 @@ Este projeto é um conversor de moedas que utiliza a API **[ExchangeRate API](ht
 - `HttpClient` da biblioteca padrão do Java
 
 ---
-
-## 🔧 Como Executar
-
-1. Clone este repositório:
-
-```bash
-git clone https://github.com/seu-usuario/conversor-moedas-java.git
-cd conversor-moedas-java
-``
-
 ## ✅ Funcionalidades
 
 - ✅ Requisição em tempo real de cotações via API
@@ -34,12 +24,6 @@ cd conversor-moedas-java
 - ✅ Validação de opção no menu
 - ✅ Encerramento seguro do programa
 
----
 
-## 📦 Estrutura do Projeto
 
-```bash
-📁 src/
-├── Conversor.java       # Classe responsável pela requisição HTTP e desserialização JSON
-├── Moedas.java          # Record que representa a estrutura do JSON da API
-└── Principal.java       # Classe principal com o menu de interação e lógica de conversão
+
