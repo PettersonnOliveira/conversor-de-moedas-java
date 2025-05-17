@@ -10,7 +10,7 @@ public class Conversor {
         HttpClient client = HttpClient.newHttpClient();
 
         HttpRequest request = HttpRequest.newBuilder()
-                .uri(URI.create("https://v6.exchangerate-api.com/v6/b550c3cdf32288112ead8cde/latest/USD")) // Substituir URL conforme necessário
+                .uri(URI.create("https://v6.exchangerate-api.com/v6/Sua_APIKEY/latest/USD")) // Substituir URL conforme necessário
                 .build();
         try {
             HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
