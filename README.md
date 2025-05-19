@@ -24,6 +24,7 @@ Este projeto é um conversor de moedas que utiliza a API **[ExchangeRate API](ht
 - ✅ Validação de opção no menu
 - ✅ Encerramento seguro do programa
 
+## 👨‍💻 Autor
 
-
-
+Feito por **Petterson Oliveira**  
+Aluno do programa **Oracle Next Education - ONE** 🚀  
